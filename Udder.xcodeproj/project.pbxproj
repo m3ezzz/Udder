@@ -12,6 +12,7 @@
 		FEE2336C2201826F001625B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE2336A2201826F001625B6 /* Main.storyboard */; };
 		FEE2336E22018273001625B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEE2336D22018273001625B6 /* Assets.xcassets */; };
 		FEE2337122018273001625B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE2336F22018273001625B6 /* LaunchScreen.storyboard */; };
+		FEE23379220183D1001625B6 /* Martin-Berube-Square-Animal-Cow.ico in Resources */ = {isa = PBXBuildFile; fileRef = FEE23378220183D0001625B6 /* Martin-Berube-Square-Animal-Cow.ico */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FEE2336D22018273001625B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEE2337022018273001625B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEE2337222018273001625B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEE23378220183D0001625B6 /* Martin-Berube-Square-Animal-Cow.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = "Martin-Berube-Square-Animal-Cow.ico"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				FEE233682201826F001625B6 /* ViewController.swift */,
 				FEE2336A2201826F001625B6 /* Main.storyboard */,
 				FEE2336D22018273001625B6 /* Assets.xcassets */,
+				FEE23378220183D0001625B6 /* Martin-Berube-Square-Animal-Cow.ico */,
 				FEE2336F22018273001625B6 /* LaunchScreen.storyboard */,
 				FEE2337222018273001625B6 /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEE23379220183D1001625B6 /* Martin-Berube-Square-Animal-Cow.ico in Resources */,
 				FEE2337122018273001625B6 /* LaunchScreen.storyboard in Resources */,
 				FEE2336E22018273001625B6 /* Assets.xcassets in Resources */,
 				FEE2336C2201826F001625B6 /* Main.storyboard in Resources */,
